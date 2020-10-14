@@ -1,0 +1,15 @@
+.main-page {
+  color: white;
+  display: flex;
+  height: 100%;
+}
+
+.left {
+  flex: 3;
+  background-color: red;
+}
+
+.right {
+  flex: 1;
+  background-color: blue;
+}
